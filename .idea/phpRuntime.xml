@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpRuntimeConfiguration">
+    <extensions>
+      <extension name="Parle" enabled="true" />
+      <extension name="Zend OPcache" enabled="false" />
+      <extension name="ZendCache" enabled="true" />
+      <extension name="apache" enabled="false" />
+      <extension name="enchant" enabled="false" />
+      <extension name="event" enabled="true" />
+      <extension name="gettext" enabled="false" />
+      <extension name="gmp" enabled="false" />
+      <extension name="imap" enabled="false" />
+      <extension name="interbase" enabled="false" />
+      <extension name="intl" enabled="false" />
+      <extension name="mapscript" enabled="true" />
+      <extension name="mcrypt" enabled="false" />
+      <extension name="mssql" enabled="false" />
+      <extension name="mysql" enabled="false" />
+      <extension name="oci8" enabled="false" />
+      <extension name="odbc" enabled="false" />
+      <extension name="pcntl" enabled="false" />
+      <extension name="pdo_ibm" enabled="false" />
+      <extension name="pspell" enabled="false" />
+      <extension name="rdkafka" enabled="true" />
+      <extension name="recode" enabled="false" />
+      <extension name="sodium" enabled="false" />
+      <extension name="solr" enabled="true" />
+      <extension name="sybase" enabled="false" />
+      <extension name="sync" enabled="true" />
+      <extension name="uopz" enabled="true" />
+      <extension name="xcache" enabled="true" />
+      <extension name="yaf" enabled="true" />
+      <extension name="yar" enabled="true" />
+    </extensions>
+  </component>
+</project>
